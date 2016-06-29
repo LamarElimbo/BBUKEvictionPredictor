@@ -10,3 +10,7 @@ Program Rundown
 Sentiment Analyzer Versions
 - I first tried using the nltk sentiment analyzer to categorize the tweets however this led to a lot of false negatives
 - I then used a rule-based sentiment analyzer, which draws upon precategorized lists of positive and negative words.  This turned out to be a lot more reliable.
+
+To Dos
+- Use statistical methods to determine the algorithm's accuracy and precision
+- Update sentiment analyzer to accomodate for negation
